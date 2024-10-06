@@ -9,7 +9,6 @@ AWS Bedrock: Foundation model for natural language processing.
 LangChain: Framework for building applications with LLMs (Large Language Models).
 User Interface: Frontend to interact with the model.
 
-Diagram
 
 css
 Copy code
@@ -27,7 +26,7 @@ def load_data_from_s3(bucket_name, file_key):
     data = pd.read_csv(obj['Body'])
     return data
 
-# Usage
+ Usage
 data = load_data_from_s3('your-bucket-name', 'data.csv')
 
 
