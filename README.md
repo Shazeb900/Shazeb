@@ -3,9 +3,8 @@
 
 - 🔭 I’m Working on LLM APP using Langchain and AWS Bedrock **RAG App Using Langchain and AWS Bedrock**
 
-- 📫 How to reach me **Shazeb900123@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:Shazeb900123@gmail.com</h3>
 <p align="left">
 </p>
 
