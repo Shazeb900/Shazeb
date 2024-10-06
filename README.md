@@ -3,7 +3,7 @@
 
 - 🔭 I’m Working on LLM APP using Langchain and AWS Bedrock **RAG App Using Langchain and AWS Bedrock**
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
+- 👨‍💻 All of my projects are available at https://github.com/users/Shazeb900/projects/1/views/1
 
 - 📫 How to reach me **Shazeb900123@gmail.com**
 
